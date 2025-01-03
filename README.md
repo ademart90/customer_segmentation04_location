@@ -4,5 +4,5 @@ This part concludes my customer segmentation analysis by focusing on segmenting 
 state was encoded and segmentation was performed with the various website features and purchase features for indepth analysis and 
 various visaualization was created, a state metric heatmap to visualize how each state performed 
 
-An ineractive dashboard was created to filter states by their purchase behavior category.
+An interactive dashboard was created to filter states by their purchase behavior category.
 https://mqxtwrmejcrfqpjevyv4qd.streamlit.app/
